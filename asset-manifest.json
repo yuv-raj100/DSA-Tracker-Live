@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DSA-Tracker-Live/static/css/main.d44dbf58.css",
+    "main.js": "/DSA-Tracker-Live/static/js/main.9e9a83ec.js",
+    "static/media/star-unchecked.png": "/DSA-Tracker-Live/static/media/star-unchecked.190d870d386afd29523a.png",
+    "static/media/rocket.png": "/DSA-Tracker-Live/static/media/rocket.f3c29c2905300b6dcb4a.png",
+    "index.html": "/DSA-Tracker-Live/index.html",
+    "main.d44dbf58.css.map": "/DSA-Tracker-Live/static/css/main.d44dbf58.css.map",
+    "main.9e9a83ec.js.map": "/DSA-Tracker-Live/static/js/main.9e9a83ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d44dbf58.css",
+    "static/js/main.9e9a83ec.js"
+  ]
+}
